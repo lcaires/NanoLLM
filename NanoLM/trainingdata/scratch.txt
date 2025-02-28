@@ -1,0 +1,5 @@
+model[("um","dia")] = ["apareceu", "o","o","divino","o","divino"]
+
+model[("dia","o")] = ["Snr","Alto","nosso","nosso","Alto"]
+
+model[("o","nosso")] = ["velho","velho","Eusébio", "velho"]
