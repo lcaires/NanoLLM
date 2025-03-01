@@ -7,7 +7,7 @@ from time import sleep
 model : dict[tuple[str,str],list[str]] = {}
 
 # define the path where to find the traning files
-PREFIX = "/Users/luis_caires/FPLEFT/Python/MarkovChainGPT/"
+PREFIX = "trainingdata/"
 
 def process_line(w1:str,w2:str,lw:list[str])->tuple[str,str]:
     if w1=="":
