@@ -11,5 +11,6 @@ The slides and code are based on a lecture at my Programming Fundamentals course
 The generated text is of course fairly messy in general, but very often it also makes sense, and may even be fun 🙂 ! You may try to further develop NanoLM, it is just an embryo, that can be improved it in many ways.
 
 The generated text only by chance appears in the original training set, as it is produced at random based on a coarse probability distribution “learned” from the training data.
+
 The Python code also types the text out like NanoLM if is “thinking” at the keyboard 🙂
 
