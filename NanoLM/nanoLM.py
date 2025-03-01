@@ -21,7 +21,8 @@ def process_line(w1:str,w2:str,lw:list[str])->tuple[str,str]:
         w1, w2 = w2, word
     return (w1,w2)
 
-ANSWERLEN = 50
+ANSWERLEN = 100 # change to set the answer length
+
 SORRYSTR = "Sorry, cannot elaborate on that ..."
 
 def generate_text(prompt:list[str])->None:
